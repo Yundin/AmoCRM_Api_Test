@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AmoCRM_Api_Test</string>
+    <string name="loading">Loading...</string>
+    <string name="name_text">Название</string>
+    <string name="date_text">Дата создания</string>
+    <string name="sale_text">Бюджет</string>
+    <string name="unknown">не указано</string>
+    <string name="network_trouble">Проблемы с соединением</string>
+    <string name="statusText">Статус</string>
+</resources>
