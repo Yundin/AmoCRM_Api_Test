@@ -82,7 +82,7 @@ public class LeadsRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.View
         @BindView(R.id.sale)
         TextView sale;
 
-        public LeadsViewHolder(View view) {
+        LeadsViewHolder(View view) {
             super(view);
             ButterKnife.bind(this, view);
         }
